@@ -2,7 +2,7 @@
 <p align="left"> Computer Engineer student at Istanbul Kültür University.</p>
 
 <h1 align="left">Career Objective:</h1>
-<p align="left">A highly articulate, motivated and enthusiastic with excellent interpersonal skills. Versatile, analytical and hard-working, with a practical hands-on approach. Always perseveres to achieve the best results and able to use own initiative to run projects independently. Proven to manage and complete projects to the highest standard and within agreed deadlines. Can work as part of a team and manage and motivate team members efficiently to achieve quality expectations under pressure.</p>
+<p align="left">A highly articulate, motivated and enthusiastic person with excellent interpersonal skills. Versatile, analytical and hard-working, with a practical hands-on approach. Always perseveres to achieve the best results and I am able to use my own initiative to run projects independently. Proven to manage and complete projects to the highest standard and within agreed deadlines. You can work as part of a team and manage and motivate team members efficiently to achieve quality expectations under pressure.</p>
 
 <ul>
 <li>All of my projects are available at <a href="https://github.com/AHMEDABEIDEH?tab=repositories" target="_balnk">GitHub-Repositories</a></li>
