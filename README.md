@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Ahmed Abeideh</h1>
-<p align="left">Third-year Computer Engineer student at Istanbul Kültür University.</p>
+<p align="left"> Computer Engineer student at Istanbul Kültür University.</p>
 
 <h1 align="left">Career Objective:</h1>
 <p align="left">A highly articulate, motivated and enthusiastic with excellent interpersonal skills. Versatile, analytical and hard-working, with a practical hands-on approach. Always perseveres to achieve the best results and able to use own initiative to run projects independently. Proven to manage and complete projects to the highest standard and within agreed deadlines. Can work as part of a team and manage and motivate team members efficiently to achieve quality expectations under pressure.</p>
